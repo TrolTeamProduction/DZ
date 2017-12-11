@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Домашка</string>
+
+    //layouts
+    <string name="layout_copyright">by JekaFun</string>
+    <string name="layout_FRF">FastReshebaFinder ver 2.0</string>
+    <string name="layout_btn_search">Искать</string>
+    <string name="layout_download">Скачать</string>
+    <string name="layout_downloaded">Скачан</string>
+    <string name="layout_downloading">Скачивание</string>
+    <string name="layout_open">Открыть</string>
+    <string name="layout_download_path">Папка для учебников: внутрення_память/учебники</string>
+    <string-array name="layout_frf_hint">
+        <item name="layout_download_path">Папка для учебников: внутрення_память/учебники                                              </item>
+        <item name="layout_frf_pr1">Для поиска решебы по алгебре используются 2 значения, это глава : номер. Главы 1-6, 7-повторение  </item>
+        <item name="layout_frf_pr2">Для поиска решебы по русскому используется 1 значение, это номер задания. Номера 1-546            </item>
+        <item name="layout_frf_pr3">Для поиска решебы по белке используется 1 значение, это номер задания. Номера 1-388               </item>
+        <item name="layout_frf_pr4">Для поиска решебы по белке(6 класс) используется 1 значение, это номер задания. Номера 1-523      </item>
+        <item name="layout_frf_pr5">Для поиска решебы по геометрии используется 1 значение, это номер задания. Номера 1-409           </item>
+        <item name="layout_frf_pr6">Для поиска решебы по химии используются 2 значения, это глава : номер. Главы 1-46                 </item>
+        <item name="layout_frf_pr7">Для поиска решебы по англу(учебник) используются 3 значения  Unit : Lesson : номер                </item>
+        <item name="layout_frf_pr8">Для решебы по англу(ClickOn WB) нужно скачать pdf файл                                            </item>
+        <item name="layout_frf_pr9">Для поиска решебы по физике(учебник) используются 2 значени упражнение : номер                    </item>
+        <item name="layout_frf_pr10">Для поиска решебы по физике(лабораторные работы) используется 1 значение номер работы. Работы 1-7</item>
+
+    </string-array>
+    <string name="layout_publish_shpora">Разместить объявление</string>
+    <string name="layout_publish">Опубликовать</string>
+    <string name="layout_remove">Удалить</string>
+    <string name="layout_password">Пароль</string>
+    <string name="layout_edit">Редактировать</string>
+    <string name="layout_save">Сохранить</string>
+
+    //toasts
+    <string name="toast_open_error">Ошибка при открытии:\n</string>
+    <string name="toast_incorrect_pass">Неправильный пароль</string>
+    <string name="toast_request_fields">Проверьте заполненность полей</string>
+    <string name="toast_exit">Выйти?</string>
+    <string name="toast_download_pdf_reader_first">Сначала скачайте приложение для чтения pdf файлов</string>
+    <string name="toast_field_key_is_empty">!!!В поле key должно быть значение!!!</string>\
+
+
+    //update alert
+    <string name="alert_new_ver1">Новая версия приложения </string>
+    <string name="alert_new_ver2">, текущяя </string>
+    <string name="alert_new_ver3">Обновить?</string>
+    <string name="no_internet_conect">Нет подключения к интернету</string>
+
+    <string-array name="shpora_model">
+        <item>Предмет:   </item>
+        <item>Дата:      </item>
+        <item>Тема:      </item>
+        <item>Описание:  </item>
+        <item>Статус:    </item>
+        <item>Цена:      </item>
+        <item>Кол-во:    </item>
+    </string-array>
+
+
+    //book's names
+    <string-array name="book_names">
+        <item>Алгебра(Старый Учебник)   </item>
+        <item>Алгебра                   </item>
+        <item>Англ                      </item>
+        <item>Click ON 2 SB             </item>
+        <item>Click ON 2 WB             </item>
+        <item>UpStream                  </item>
+        <item>UpStream                  </item>
+        <item>Белка                     </item>
+        <item>Белка(6 класс             </item>
+        <item>Бел лит                   </item>
+        <item>Биология                  </item>
+        <item>Всемирная история         </item>
+        <item>История Беларуси          </item>
+        <item>География                 </item>
+        <item>Геометрия                 </item>
+        <item>Геометрия(Старый Учебник) </item>
+        <item>Инфа                      </item>
+        <item>Иск                       </item>
+        <item>Русский                   </item>
+        <item>Русс лит                  </item>
+        <item>Физика                    </item>
+        <item>Химия(Старый Учебник)     </item>
+        <item>Химия(2017г)              </item>
+    </string-array>
+
+    //download links
+    <string name="download_app">https://www.dropbox.com/s/dy80av8uoifmt3u/app.apk?dl=1</string>
+    <string name="download_wb_tb">https://www.dropbox.com/s/xl62oo38hly6xib/Click%20On%202%20-%20WB%20TB.pdf?dl=1</string>
+
+    <string-array name="book_links">
+        <item>https://www.dropbox.com/s/7yxzvr1vwcon685/Algebra2014.pdf?dl=1     </item>
+        <item>https://www.dropbox.com/s/fx9l8stcble3z4o/Algebra.pdf?dl=1         </item>
+        <item>https://www.dropbox.com/s/dewu92nzwjniokb/Angl.pdf?dl=1            </item>
+        <item>https://www.dropbox.com/s/diszcwd5h0wrn5u/Click_On_2_SB.pdf?dl=1   </item>
+        <item>https://www.dropbox.com/s/zvl8i1wnqpy3tvj/Click_On_2_WB.pdf?dl=1   </item>
+        <item>null                                                               </item>
+        <item>null                                                               </item>
+        <item>https://www.dropbox.com/s/1ihzmd7qs0ja8rk/Belka.pdf?dl=1           </item>
+        <item>https://www.dropbox.com/s/40k6i00wvsm2ia8/Belka2015.pdf?dl=1       </item>
+        <item>https://www.dropbox.com/s/u5b6zd08mkjzd88/Bel_lit.pdf?dl=1         </item>
+        <item>https://www.dropbox.com/s/n45zbdzyyamt7jg/Biologiya.pdf?dl=1       </item>
+        <item>https://www.dropbox.com/s/wn08pkhcizlqke4/Vsemirn_ist.pdf?dl=1     </item>
+        <item>null                                                               </item>
+        <item>https://www.dropbox.com/s/a32k2b6u0hgol92/Geografka.pdf?dl=1       </item>
+        <item>https://www.dropbox.com/s/3ssg3l2tepkhh1u/Geometriya.pdf?dl=1      </item>
+        <item>https://www.dropbox.com/s/nw7fz09uxdsrxwa/Geometriya11.pdf?dl=1    </item>
+        <item>http://informatika7.adu.by/                                        </item>
+        <item>https://www.dropbox.com/s/xa1j61an6ndj5bb/Isk.pdf?dl=1             </item>
+        <item>https://www.dropbox.com/s/l78zosmznuw7rwt/Russkiy.pdf?dl=1         </item>
+        <item>https://www.dropbox.com/s/60fs39cuir086f7/Rus_lit.pdf?dl=1         </item>
+        <item>https://www.dropbox.com/s/j5mmwtbpynk4hog/Fizika.pdf?dl=1          </item>
+        <item>https://www.dropbox.com/s/kk66rxdd27rcljq/Himiya12.pdf?dl=1        </item>
+        <item>https://www.dropbox.com/s/d5ye19ebjo61u8x/Himiya17.pdf?dl=1        </item>
+    </string-array>
+
+    <string-array name="book_size">
+        <item>5.84    </item>
+        <item>9.56    </item>
+        <item>12.0    </item>
+        <item>108.59  </item>
+        <item>57.62   </item>
+        <item>0.0     </item>
+        <item>0.0     </item>
+        <item>2.23    </item>
+        <item>3.9     </item>
+        <item>3.11    </item>
+        <item>10.53   </item>
+        <item>21.3    </item>
+        <item>0.0     </item>
+        <item>128.02  </item>
+        <item>16.36   </item>
+        <item>5.35    </item>
+        <item>0.0     </item>
+        <item>8.22    </item>
+        <item>1.73    </item>
+        <item>14.09   </item>
+        <item>19.39   </item>
+        <item>8.54    </item>
+        <item>49.75   </item>
+    </string-array>
+
+    <string-array name="fast_resheba">
+        <item>Алгебра(старый учебник)   </item>
+        <item>Алгебра                   </item>
+        <item>Русский                   </item>
+        <item>Белка                     </item>
+        <item>Белка(6 класс)            </item>
+        <item>Геометрия(старый учебник) </item>
+        <item>Геометрия                 </item>
+        <item>Химия(старый учебник)     </item>
+        <item>Англ(Учебник)             </item>
+        <item>Англ(WB)                  </item>
+        <item>Физика    </item>
+        <item>Физика (лабароторные)     </item>
+    </string-array>
+
+    <string-array name="publih_shpora_hints">
+        <item>Предмет           </item>
+        <item>Дата работы       </item>
+        <item>Тема работы       </item>
+        <item>Описание(шпоры)   </item>
+        <item>Статус            </item>
+        <item>Цена              </item>
+        <item>Кол-во            </item>
+        <item>key               </item>
+    </string-array>
+
+    <string name="rasp">
+         Понедельник\n 1. белка\n 2. бел лит\n 3. исторка\n 4. ЧЗС\n 5. англ\n 6. матем\n 7. класный час
+       \n\nВторник\n  1. русский\n  2. англ\n  3. матем\n  4. физра\n  5. физика\n  6. химия\n  7. биология
+       \n\nСреда\n  1. инф час\n  2. иск\n  3. матем\n  4. англ\n  5. труд\n  6. география\n  7. русск лит
+       \n\nЧетверг\n  1. физра\n  2. физика\n  3. англ\n  4. матем\n  5. исторка\n  6. белка\n  7. -
+       \n\nПятница\n  1. англ\n  2. биология\n  3. русский\n  4. русск лит\n  5. матем\n  6. инф\n  7. -
+    </string>
+
+    <string name="rooms">
+            Кабинеты\n207\n207\n312\nфизра\n110/113/309\n107\n317
+        \n\nКабинеты\n317\n110/113/309\n107\nфизра\n306\n305\n318
+        \n\nКабинеты\n317\n201\n107\n110/113/309\n112/211\n314\n317
+        \n\nКабинеты\nфизра\n306\n110/113/309\n107\n108\n207\n-
+        \n\nКабинеты\n110/113/309\n318\n317\n317\n107\n302/303\n-
+    </string>
+    <string name="download_all">Скачать всё</string>
+
+    <string name="no">нет</string>
+    <string name="yes">да</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Отмена</string>
+
+    //menu
+    <string name="menu_view_mod">Расписание</string>
+    <string name="menu_start_frf">FastReshebaFinder</string>
+    <string name="menu_calendar">Календарь</string>
+    <string name="menu_download_books">Учебники</string>
+    <string name="menu_shpori">Шпоры</string>
+    <string name="menu_faq">Инфа</string>
+
+    //constants
+    <string name="banner_ad_unit_id">ca-app-pub-3181515564448615/2794543095</string>
+    <integer name="com_vk_sdk_AppId">6135360</integer>
+    <string name="password">admin.password.edit.</string>
+    <string name="title_activity_login">Вход</string>
+
+
+</resources>
